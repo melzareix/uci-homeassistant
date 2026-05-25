@@ -2,6 +2,8 @@
 
 A Home Assistant custom integration that scrapes OV (Original Version) and OmU (Original with subtitles) showtimes from [UCI Kinowelt](https://www.uci-kinowelt.de/) cinemas in Germany.
 
+![Screenshot](images/screenshot.png)
+
 ## Features
 
 - Fetches OV/OmU showtimes for any UCI Kinowelt cinema
